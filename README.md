@@ -16,23 +16,35 @@ Previsão de conclusão: junho de 2027.
 
 DathaSiren
 
-Projeto de desenvolvimento próprio que integra meu portfólio de tecnologia. Em desenvolvimento.
+Sistema de Business Intelligence e apoio à decisão para gestão de serviços de TI, desenvolvido a partir de uma empresa fictícia de tecnologia.
+
+Tecnologias: PostgreSQL, SQL, Python, Pandas, ETL, HTML, CSS, JavaScript e Chart.js.
+
+Status: Versão inicial v0.1 publicada.
+
+🔗 Repositório DathaSiren
 
 BENITHE
 
-Aplicação de apoio emocional voltada a profissionais da saúde, com registro de emoções, mensagens de acolhimento, intervenções práticas e histórico de acompanhamento.
+Aplicação de apoio emocional voltada para profissionais de saúde, com registro de emoções, mensagens de acolhimento, intervenções práticas e histórico de acompanhamento.
 
-Tecnologias: Python, FastAPI, PostgreSQL e JavaScript.
+Tecnologias: Python, FastAPI, PostgreSQL, JavaScript e integração com serviços de e-mail.
 
-Projeto desenvolvido e publicado. Repositório privado.
+Status: Aplicação desenvolvida e publicada. Em evolução contínua.
+
+🔗 Repositório BENITHE
 
 Mãe Solo
 
 Projeto em desenvolvimento com a proposta de apoiar mães solo na organização da rotina, atividades das crianças, autocuidado e construção de uma rede de apoio.
 
+Status: Em desenvolvimento.
+
 Estudos de Lógica Python
 
 Repositório de exercícios e práticas de lógica de programação, estruturas de dados e fundamentos de Python.
+
+Status: Estudos e prática contínua.
 
 🛠️ Tecnologias, ferramentas e conhecimentos
 
