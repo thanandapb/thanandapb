@@ -22,7 +22,7 @@ Tecnologias: PostgreSQL, SQL, Python, Pandas, ETL, HTML, CSS, JavaScript e Chart
 
 Status: Versão inicial v0.1 publicada.
 
-🔗 Repositório DathaSiren
+🔗 [Acessar repositório DathaSiren](https://github.com/thanandapb/DathaSiren)
 
 BENITHE
 
@@ -32,7 +32,7 @@ Tecnologias: Python, FastAPI, PostgreSQL, JavaScript e integração com serviço
 
 Status: Aplicação desenvolvida e publicada. Em evolução contínua.
 
-🔗 Repositório BENITHE
+🔗 [Acessar repositório BENITHE](https://github.com/benithe-app/BENITHE)
 
 Mãe Solo
 
